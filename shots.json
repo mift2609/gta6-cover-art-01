@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":1080,"name":"1-cover.jpg","query":"?shot=cover&photos=man-neon,woman-sunset,street-sunset&caption=VICE%20CITY&subtitle=SUNSET%20HEIST&layout=trio&grade=sunset&size=1920x1080","w":1920},{"h":800,"name":"2-editor.jpg","query":"?shot=editor&photos=man-neon,woman-sunset,street-sunset&caption=VICE%20CITY&subtitle=SUNSET%20HEIST&layout=trio&grade=sunset&size=1920x1080","w":1280},{"h":1350,"name":"3-cover-portrait.jpg","query":"?shot=cover&photos=woman-sunset,man-neon&caption=NEON%20NIGHTS&subtitle=OCEAN%20DRIVE&layout=duo&grade=neon&size=1080x1350","w":1080},{"h":1080,"name":"4-cover-square.jpg","query":"?shot=cover&photos=man-neon,woman-sunset&caption=GOLDEN%20HOUR&subtitle=VICE%20CITY&layout=solo&grade=golden&size=1080x1080","w":1080}]
